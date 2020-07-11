@@ -1,8 +1,6 @@
-# Denis Isidoro :wave:
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnsisidoro/)](https://www.linkedin.com/in/dnsisidoro/) 
-[![Medium](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@den.isidoro/)](https://medium.com/@den.isidoro/) 
-[![Personal website](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=AddThis&logoColor=white&link=https://denisidoro.github.io/)](https://denisidoro.github.io) 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnsisidoro/)](https://www.linkedin.com/in/dnsisidoro/) 
+[![Medium](https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@den.isidoro/)](https://medium.com/@den.isidoro/) 
+[![Personal website](https://img.shields.io/badge/-Website-critical?style=flat-square&logo=AddThis&logoColor=white&link=https://denisidoro.github.io/)](https://denisidoro.github.io) 
 
 :oncoming_automobile:	I currently work at [Uber](https://github.com/uber), dedicated to helping users [move safely](https://www.uber.com/br/en/ride/safety).
 
