@@ -3,6 +3,6 @@
 
 :oncoming_automobile: ‎ I work at [Uber](https://www.uber.com/), where we take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.</p>
 
-:euro: ‎ I also helped build [Nubank](https://github.com/nubank), a fintech which now has millions of customers and is revolutionizing banking and financial products.
+:euro: ‎ I also helped build [Nubank](https://nubank.com.br/en/), a fintech which now has millions of customers and is revolutionizing banking and financial products.
 
 :sparkles: ‎ My most popular repository on GitHub is [navi](https://github.com/denisidoro/navi), with 8k+ stars.
