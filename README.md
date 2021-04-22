@@ -5,6 +5,6 @@
 
 :euro: ‎ I also helped build [Nubank](https://nubank.com.br/en/), a fintech which now has millions of customers and is revolutionizing banking and financial products.
 
-:sparkles: ‎ My most popular repository on GitHub is [navi](https://github.com/denisidoro/navi), with 8k+ stars.
+:sparkles: ‎ My most popular repository on GitHub is [navi](https://github.com/denisidoro/navi), with 9k+ stars.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=denisidoro&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true)
